@@ -56,13 +56,13 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\ResponsiveManager\ResponsiveManager.cs" />
-    <Compile Include="Assets\ResponsiveManager\GettingWorldLimitsExample.cs" />
+    <Compile Include="Assets\Scripts\ObjectsSpawner.cs" />
     <Compile Include="Assets\ResponsiveManager\WorldRectDrawer.cs" />
-    <Compile Include="Assets\ObjectsSpawner.cs" />
-    <Compile Include="Assets\DestroyOnGroundTriggerCollision.cs" />
-    <Compile Include="Assets\PlayerScoreSystem.cs" />
-    <Compile Include="Assets\ScoreManager.cs" />
+    <Compile Include="Assets\ResponsiveManager\ResponsiveManager.cs" />
+    <Compile Include="Assets\Scripts\PlayerScoreSystem.cs" />
+    <Compile Include="Assets\ResponsiveManager\GettingWorldLimitsExample.cs" />
+    <Compile Include="Assets\Scripts\ScoreManager.cs" />
+    <Compile Include="Assets\Scripts\DestroyOnGroundTriggerCollision.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\BayatGames\Free Platform Game Assets\Readme.txt" />
